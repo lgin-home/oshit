@@ -1,0 +1,23 @@
+{
+  "name": "websnap",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lgin-home/oshit.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/lgin-home/oshit/issues"
+  },
+  "dependencies": {
+    "express": "~3.3.5",
+    "phantomjs": "~1.9.1-8",
+    "webcamera": "0.0.5"
+  }
+}
